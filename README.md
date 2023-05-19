@@ -1,1 +1,1 @@
-# BTech-Majot-Project
+# BTech-Major-Project
